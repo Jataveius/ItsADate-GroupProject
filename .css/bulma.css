@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @Jataveius
- Sign out
- Watch 588
-  Star 23,761  Fork 1,843 jgthms/bulma
- Code  Issues 245  Pull requests 48  Projects 1  Wiki  Insights
-Branch: master Find file Copy pathbulma/css/bulma.css
-6078acd  11 days ago
-@jgthms jgthms Deploy 0.6.2
-7 contributors @jgthms @necinc @mschinis @mna @lostm1nd @yo7 @tsq
-RawBlameHistory     
-10719 lines (9250 sloc)  218 KB
 /*! bulma.io v0.6.2 | MIT License | github.com/jgthms/bulma */
 @-webkit-keyframes spinAround {
   from {
@@ -10735,15 +10717,3 @@ label.panel-block:hover {
   padding: 3rem 1.5rem 6rem;
 }
 /*# sourceMappingURL=bulma.css.map */
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
